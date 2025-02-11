@@ -20,7 +20,7 @@
 Mi objetivo es contribuir activamente a la creación de soluciones innovadoras y eficientes, siempre con una orientación hacia la excelencia y la mejora constante en el desarrollo de aplicaciones web. He iniciado varios proyectos personales en desarrollo web, aplicando y consolidando los conocimientos adquiridos en el bootcamp, con el objetivo de seguir ganando experiencia y convertirme en un profesional altamente competente. Además, he decidido comenzar mi carrera universitaria en Ingeniería de Software para fortalecer y ampliar mis conocimientos técnicos y teóricos, lo que me permitirá tener una visión más profunda del desarrollo de software.
 </h3>
 
-<ul class="mt-6 list-disc pl-8 text-lg">
+<ul class="mt-6 list-disc text-3xl">
   <li><span class="font-semibold">🔭</span> Actualmente estoy trabajando en un proyecto <strong>Ventas y Arriendo de inmuebles - Alimvida SAS</strong></li>
   <li><span class="font-semibold">🌱</span> Actualmente estoy aprendiendo <strong>React JS || Typescript || Javascript || Tailwind CSS</strong></li>
   <li><span class="font-semibold">👨‍💻</span> Todos mis proyectos están en <a href="https://github.com/ANDRES15062005?tab=repositories" class="text-blue-500 hover:underline" target="_blank">mi GitHub</a></li>
