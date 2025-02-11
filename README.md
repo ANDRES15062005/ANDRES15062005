@@ -1,56 +1,26 @@
+<h1 align="center">Hi 👋, I'm Andrés Gallego</h1>
+<h3 align="center">He completado exitosamente un bootcamp en Henry, donde obtuve el certificado como Full Stack Developer especializado en Frontend, con una duración de 8 meses. Durante este programa intensivo, adquirí conocimientos fundamentales e importantes en el ámbito del desarrollo web, lo que me permitió profundizar en diversas tecnologías y herramientas clave, tales como: ● React JS ● Typescript ● Javascript ● Next JS ● HTML ● CSS ● Tailwind CSS ● Bootstrap ● PostgreSQL ● MongoDB A través de Henry, no solo pude adquirir conocimientos técnicos sobre estas herramientas y tecnologías vanguardistas, sino que también perfeccioné habilidades prácticas mediante la realización de proyectos reales y desafíos colaborativos, lo que me permitió fortalecer mi capacidad para resolver problemas y enfrentar retos complejos del entorno tecnológico. Estoy profundamente comprometido con el aprendizaje continuo, lo que me motiva a seguir explorando y dominando nuevas herramientas y tendencias en el mundo del desarrollo de software. Mi objetivo es contribuir activamente a la creación de soluciones innovadoras y eficientes, siempre con una orientación hacia la excelencia y la mejora constante en el desarrollo de aplicaciones web. He iniciado varios proyectos personales en desarrollo web, aplicando y consolidando los conocimientos adquiridos en el bootcamp, con el objetivo de seguir ganando experiencia y convertirme en un profesional altamente competente. Además, he decidido comenzar mi carrera universitaria en Ingeniería de Software para fortalecer y ampliar mis conocimientos técnicos y teóricos, lo que me permitirá tener una visión más profunda del desarrollo de software.</h3>
 
+- 🔭 Actualmente estoy trabajando en un proyecto **Ventas y Arriendo de inmuebles - Alimvida SAS**
 
-   <h1 class="text-3xl font-bold text-blue-600">Hi 👋, I'm Andrés Gallego</h1>
-      <p class="text-lg mt-2">He completado exitosamente un bootcamp en Henry, donde obtuve el certificado como Full Stack Developer especializado en Frontend, con una duración de 8 meses.</p>
+- 🌱 Actualmente estoy aprendiendo **React JS || Typescript || Javascript || Tailwind CSS**
 
-  <section class="mb-8">
-      <h2 class="text-xl font-semibold mb-4">Resumen</h2>
-      <p class="text-base leading-relaxed">
-        Durante este programa intensivo, adquirí conocimientos fundamentales e importantes en el ámbito del desarrollo web, lo que me permitió profundizar en diversas tecnologías y herramientas clave, tales como: <br>
-        ● React JS ● Typescript ● Javascript ● Next JS ● HTML ● CSS ● Tailwind CSS ● Bootstrap ● PostgreSQL ● MongoDB
-      </p>
-    </section>
+- 👨‍💻 Todos mis proyectos están en [https://github.com/ANDRES15062005?tab=repositories](https://github.com/ANDRES15062005?tab=repositories)
 
-  <section class="mb-8">
-      <h2 class="text-xl font-semibold mb-4">Actualmente</h2>
-      <ul class="list-disc pl-6 space-y-2">
-        <li>🔭 Trabajando en un proyecto de **Ventas y Arriendo de inmuebles - Alimvida SAS**</li>
-        <li>🌱 Aprendiendo **React JS, Typescript, Javascript, Tailwind CSS**</li>
-        <li>💬 Pregúntame sobre **React JS, HTML, CSS, Boostrap, Javascript, Typescript**</li>
-        <li>📫 ¿Cómo encontrarme? **andresflorez15062005@gmail.com**</li>
-      </ul>
-    </section>
+- 💬 Pregúntame sobre **React JS || HTML || CSS || Boostrap || Javascript || Typescript**
 
-   <section class="mb-8">
-      <h2 class="text-xl font-semibold mb-4">Conéctate conmigo:</h2>
-      <div class="flex space-x-4 justify-center">
-        <a href="https://x.com/andresgallegof" target="_blank" class="text-blue-600 hover:text-blue-800">Twitter</a>
-        <a href="https://www.linkedin.com/in/andres-gallego-florez-28189b2a6/" target="_blank" class="text-blue-600 hover:text-blue-800">LinkedIn</a>
-        <a href="https://www.facebook.com/profile.php?id=100076962652329" target="_blank" class="text-blue-600 hover:text-blue-800">Facebook</a>
-        <a href="https://www.instagram.com/andresflorez1506/" target="_blank" class="text-blue-600 hover:text-blue-800">Instagram</a>
-      </div>
-    </section>
+- 📫 ¿Cómo encontrarme? **andresflorez15062005@gmail.com**
 
-   <section class="mb-8">
-      <h2 class="text-xl font-semibold mb-4">Lenguajes y Herramientas:</h2>
-      <div class="flex flex-wrap gap-4 justify-center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" class="w-12 h-12">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" class="w-12 h-12">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" class="w-12 h-12">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" class="w-12 h-12">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" class="w-12 h-12">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" class="w-12 h-12">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" class="w-12 h-12">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" class="w-12 h-12">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" class="w-12 h-12">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" class="w-12 h-12">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" class="w-12 h-12">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" class="w-12 h-12">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" class="w-12 h-12">
-      </div>
-    </section>
-  </div>
-</body>
-</html>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/andresgallegof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/andresgallegof" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/andres-gallego-florez-28189b2a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andres-gallego-florez-28189b2a6/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100076962652329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100076962652329" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/andresflorez1506/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/andresflorez1506/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
 
 
