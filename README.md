@@ -1,11 +1,7 @@
 <h1 class="text-3xl font-bold text-center text-blue-600 py-4">Hi 👋, I'm Andrés Gallego</h1>
 
 <h3 class="text-lg text-center px-4 py-2">
-  He completado exitosamente un bootcamp en Henry, donde obtuve el certificado como Full Stack Developer especializado en Frontend, con una duración de 8 meses. Durante este programa intensivo, adquirí conocimientos fundamentales e importantes en el ámbito del desarrollo web, lo que me permitió profundizar en diversas tecnologías y herramientas clave, tales como:
-  <br>
-  ● React JS ● Typescript ● Javascript ● Next JS ● HTML ● CSS ● Tailwind CSS ● Bootstrap ● PostgreSQL ● MongoDB
-  <br><br>
-  A través de Henry, no solo pude adquirir conocimientos técnicos sobre estas herramientas y tecnologías vanguardistas, sino que también perfeccioné habilidades prácticas mediante la realización de proyectos reales y desafíos colaborativos, lo que me permitió fortalecer mi capacidad para resolver problemas y enfrentar retos complejos del entorno tecnológico.
+  He completado exitosamente un bootcamp en Henry, donde obtuve el certificado como Full Stack Developer especializado en Frontend, con una duración de 8 meses. Durante este programa intensivo, adquirí conocimientos fundamentales e importantes en el ámbito del desarrollo web, lo que me permitió profundizar en diversas tecnologías y herramientas clave A través de Henry, no solo pude adquirir conocimientos técnicos sobre estas herramientas y tecnologías vanguardistas, sino que también perfeccioné habilidades prácticas mediante la realización de proyectos reales y desafíos colaborativos, lo que me permitió fortalecer mi capacidad para resolver problemas y enfrentar retos complejos del entorno tecnológico.
   <br><br>
   Estoy profundamente comprometido con el aprendizaje continuo, lo que me motiva a seguir explorando y dominando nuevas herramientas y tendencias en el mundo del desarrollo de software. Mi objetivo es contribuir activamente a la creación de soluciones innovadoras y eficientes, siempre con una orientación hacia la excelencia y la mejora constante en el desarrollo de aplicaciones web.
   <br><br>
