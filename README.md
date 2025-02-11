@@ -1,5 +1,5 @@
 
-  <h1 class="text-center text-3xl font-bold">Hola 👋, Soy Andrés Gallego</h1>
+  <h1 class="text-center text-3xl font-bold">Hola 👋 Soy Andrés Gallego</h1>
   <h1 class="text-center text-3xl font-bold">Sobre Mi 🤔</h1
 
 <h3 class="text-center text-lg mt-4">
