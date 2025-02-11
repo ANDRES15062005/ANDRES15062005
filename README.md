@@ -1,5 +1,8 @@
-<h1 class="text-center text-3xl font-bold mb-6">Hola 👋, Soy Andrés Gallego</h1>
-<h1 class="text-center text-3xl font-bold mb-6">Sobre Mi🤔</h1>
+<div class="flex flex-col justify-center items-center min-h-screen">
+  <h1 class="text-center text-3xl font-bold mb-6">Hola 👋, Soy Andrés Gallego</h1>
+  <h1 class="text-center text-3xl font-bold mb-6">Sobre Mi 🤔</h1>
+</div>
+
 <h3 class="text-center text-lg mt-4">
   He completado exitosamente un bootcamp en Henry, donde obtuve el certificado como Full Stack Developer especializado en Frontend, con una duración de 8 meses. Durante este programa intensivo, adquirí conocimientos fundamentales e importantes en el ámbito del desarrollo web, lo que me permitió profundizar en diversas tecnologías y herramientas clave, tales como:
   <br><br>
@@ -20,13 +23,14 @@
 Mi objetivo es contribuir activamente a la creación de soluciones innovadoras y eficientes, siempre con una orientación hacia la excelencia y la mejora constante en el desarrollo de aplicaciones web. He iniciado varios proyectos personales en desarrollo web, aplicando y consolidando los conocimientos adquiridos en el bootcamp, con el objetivo de seguir ganando experiencia y convertirme en un profesional altamente competente. Además, he decidido comenzar mi carrera universitaria en Ingeniería de Software para fortalecer y ampliar mis conocimientos técnicos y teóricos, lo que me permitirá tener una visión más profunda del desarrollo de software.
 </h3>
 
-<ul class="mt-6 list-disc text-3xl">
+<ul class="mt-6 list-disc text-4xl">
   <li><span class="font-semibold">🔭</span> Actualmente estoy trabajando en un proyecto <strong>Ventas y Arriendo de inmuebles - Alimvida SAS</strong></li>
   <li><span class="font-semibold">🌱</span> Actualmente estoy aprendiendo <strong>React JS || Typescript || Javascript || Tailwind CSS</strong></li>
   <li><span class="font-semibold">👨‍💻</span> Todos mis proyectos están en <a href="https://github.com/ANDRES15062005?tab=repositories" class="text-blue-500 hover:underline" target="_blank">mi GitHub</a></li>
   <li><span class="font-semibold">💬</span> Pregúntame sobre <strong>React JS || HTML || CSS || Boostrap || Javascript || Typescript</strong></li>
   <li><span class="font-semibold">📫</span> ¿Cómo encontrarme? <strong>andresflorez15062005@gmail.com</strong></li>
 </ul>
+
 
 <h3 class="text-center text-lg mt-8">Connect with me:</h3>
 <p class="text-center text-lg">
