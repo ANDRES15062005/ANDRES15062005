@@ -24,7 +24,7 @@ Mi objetivo es contribuir activamente a la creación de soluciones innovadoras y
 </h3>
 
 <ul class="mt-6 list-disc text-4xl">
-  <li><span class="font-semibold">🔭</span> Actualmente estoy trabajando en un proyecto <strong>Ventas y Arriendo de inmuebles - Alimvida SAS</strong></li>
+  <li><span class="font-semibold text-4xl">🔭</span> Actualmente estoy trabajando en un proyecto <strong>Ventas y Arriendo de inmuebles - Alimvida SAS</strong></li>
   <li><span class="font-semibold">🌱</span> Actualmente estoy aprendiendo <strong>React JS || Typescript || Javascript || Tailwind CSS</strong></li>
   <li><span class="font-semibold">👨‍💻</span> Todos mis proyectos están en <a href="https://github.com/ANDRES15062005?tab=repositories" class="text-blue-500 hover:underline" target="_blank">mi GitHub</a></li>
   <li><span class="font-semibold">💬</span> Pregúntame sobre <strong>React JS || HTML || CSS || Boostrap || Javascript || Typescript</strong></li>
