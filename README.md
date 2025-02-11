@@ -1,6 +1,7 @@
 <h1 class="text-center text-3xl font-bold">Hi 👋, I'm Andrés Gallego</h1>
 <h3 class="text-center text-lg mt-4">
   He completado exitosamente un bootcamp en Henry, donde obtuve el certificado como Full Stack Developer especializado en Frontend, con una duración de 8 meses. Durante este programa intensivo, adquirí conocimientos fundamentales e importantes en el ámbito del desarrollo web, lo que me permitió profundizar en diversas tecnologías y herramientas clave, tales como:
+  <br><br> 
   <ul class="list-disc pl-8 mt-2">
     <li>React JS</li>
     <li>Typescript</li>
