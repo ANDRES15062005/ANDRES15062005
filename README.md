@@ -25,7 +25,7 @@
 </p>
 
 <h3 class="text-xl font-semibold text-left py-2">Languages and Tools:</h3>
-<p class="flex flex-wrap gap-4">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git">
